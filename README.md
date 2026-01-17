@@ -38,6 +38,12 @@ A responsive gym & fitness web application built using React, Tailwind CSS, and 
 
 5.State persistence using localStorage
 
+
+
+
+Live link:
+https://rohithportfolio24.vercel.app/
+
 6.Responsive UI design
 
 ▶️ Run Locally
