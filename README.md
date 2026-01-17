@@ -1,16 +1,45 @@
-# React + Vite
+FitClub – Gym & Workout Tracker (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive gym & fitness web application built using React, Tailwind CSS, and Framer Motion, featuring workout programs, pricing plans, testimonials, and a workout tracker with localStorage support.
 
-Currently, two official plugins are available:
+🚀 Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.Sticky navbar with smooth scroll & active links
 
-## React Compiler
+2.Modern hero section with animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+3.Fitness programs & pricing plans
 
-## Expanding the ESLint configuration
+4.“Join Now” flow with real logic (plan selection)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+5.Workout tracker with localStorage persistence
+
+6.Fully responsive (mobile & desktop)
+
+🛠️ Tech Stack
+
+1.React (Vite)
+
+2.Tailwind CSS
+
+3.Framer Motion
+
+4.JavaScript (ES6+)
+
+🧠 What This Project Demonstrates
+
+1.Component-based architecture
+
+2.React Hooks (useState, useEffect)
+
+3.Controlled forms & conditional rendering
+
+4.DOM interaction (smooth scrolling)
+
+5.State persistence using localStorage
+
+6.Responsive UI design
+
+▶️ Run Locally
+npm install
+npm run dev
